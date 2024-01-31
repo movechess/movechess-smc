@@ -1,0 +1,12 @@
+{
+  "name": "tournament",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cargo build",
+    "test": "cargo test --package tournament --lib -- tournament::tests --nocapture"
+  },
+  "author": "",
+  "license": "ISC"
+}
