@@ -25,6 +25,3 @@ Start the Game Engine
 ```
 yarn start
 ```
-
-# localhost app simulate: http://127.0.0.1:8080/
-
